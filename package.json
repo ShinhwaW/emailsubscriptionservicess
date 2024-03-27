@@ -1,0 +1,32 @@
+{
+  "name": "emailsubscriptionservicess",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "emailsubscriptionservicess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShinhwaW/emailsubscriptionservicess"
+  },
+  "website": "https://github.com/ShinhwaW/emailsubscriptionservicess.git",
+  "keywords": [
+    "emailsubscriptionservice"
+  ],
+  "author": "ShinhwaW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinhwaW/emailsubscriptionservicess/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/ShinhwaW/emailsubscriptionservicess#readme",
+  "dependencies": {
+    "onlinequizappaa": "1.0.2",
+    "musicsharingplatforms": "1.0.2"
+  }
+}
